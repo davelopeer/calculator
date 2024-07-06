@@ -3,6 +3,8 @@
 
 This project is build usign react reducer to create a simple calculator in the browser.
 
+![calculator](https://github.com/davelopeer/calculator/assets/25778236/6c5c202f-c65f-4db5-8fa7-1a2019613412)
+
 
 ## Available Scripts
 
